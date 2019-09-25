@@ -4,3 +4,4 @@ git has amutable index called stage.
 git tracks changes.
 git is easy.
 today minshi is going to learn git.
+excuse me?
